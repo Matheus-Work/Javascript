@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    padding: 0;
+}
+.pagina {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
